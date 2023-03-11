@@ -1,3 +1,3 @@
 # django-react
-The project, which I'm create simple app stuff social management, using django and react. 🔥
+The project is to create a simple app for social management using Django and React. 🔥
 
